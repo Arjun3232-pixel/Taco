@@ -1,0 +1,33 @@
+html {
+    font-size: 24px;
+}
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+body {
+    background-color: rgb(230, 230, 230);
+    color: rgb(5, 8, 8);
+}
+h1{
+    background-color: aquamarine;
+    border: 3px solid black;
+}
+a {
+    color: darkblue;
+}
+a:hover, a:active {
+    color: darkgoldenrod;
+}
+table, tr, th, td, caption{
+    border: 1px solid rgb(15, 11, 7);
+    font-family: 'Courier New', Courier, monospace;
+    border-collapse: collapse;
+    padding: 0.5rem;
+}
+.tab{
+    background-color: rgb(216, 68, 68);
+}
+.cap{
+    background-color: rgb(224, 222, 52);
+}
+
